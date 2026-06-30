@@ -57,19 +57,6 @@ Whether you're analyzing team discussions, classroom chats, customer conversatio
 
 ---
 
-# 🖥 Application Preview
-
-<div align="center">
-
-| Dashboard | AI Summary | Statistics |
-|-----------|------------|------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/summary.png) | ![](screenshots/statistics.png) |
-
-</div>
-
-> **Replace the placeholder screenshots above with your own images stored inside the `screenshots/` folder.**
-
----
 
 # 🚀 How It Works
 
